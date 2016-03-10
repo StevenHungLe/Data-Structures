@@ -1,0 +1,29 @@
+Feedback and Grade for Midterm
+——————————————————————————————
+
+Overall grade: 37 + 50 = 87
+
+Written Part: 
+————————————
+Grade: 37 
+
+Comments:
+* one day late
+* file-name should have been Answers.txt
+
+
+Programming Part:
+————————————————-
+Grade: 60 - 10 = 50
+
+
+Comments:
+
+* Incorrect output for “a+b*c+(d*e+f)*g” and  “(4+5)*2”. [-6]
+* Additional line of output containing operators only!
+* It could be better to perform file I/O in separate class, which can be tested separately.
+* Conversion method is too large, could be broken into smaller testable methods.
+* Good documentation.
+* Input file-name should not be hard coded in TestInfixToPostfix.java. You could avoid using file-input in the tests. [-1]
+* testConversion() method should be broken into several independent test methods each dealing with a separate corner case. [-3]
+* Good explanations in ReadMe.txt.

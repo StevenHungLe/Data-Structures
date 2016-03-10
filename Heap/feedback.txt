@@ -1,0 +1,10 @@
+Feedback and Grade for Homework-04
+—————————————————————————————————-
+
+Grade: 10/10
+
+
+Comments:
+ 
+* Anything from java.lang does not need to be imported explicitly.
+* Integer does not need to be typecasted to int. Java’s auto-boxing takes care of that.

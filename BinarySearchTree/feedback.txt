@@ -1,0 +1,11 @@
+Feedback and Grade for Homework-03
+—————————————————————————————————-
+
+Grade: 8/10
+
+
+Comments:
+ 
+* Only 3 tests in TestQueue!
+* All tests pass, Good !
+* Incorrect implementation of generic class. You BinarySearchTree can work (contain) only with Integer values!

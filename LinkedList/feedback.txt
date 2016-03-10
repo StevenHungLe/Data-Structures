@@ -1,0 +1,14 @@
+Feedback and Grade for hw02
+---------------------------
+
+Grade: 10/10
+-----
+
+
+Comments:
+--------- 
+* Member variables head, tail, etc. should be made private. I see no reason to make them exposed.
+
+* Good documentation.
+
+* All tests pass. Good !

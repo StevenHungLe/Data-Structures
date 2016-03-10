@@ -1,0 +1,12 @@
+Grade: 10/10
+
+
+1. Well-documented, well-formatted implementation of MyArrayList class. Good !
+2. In the implementation of MyArrayList,
+	a) you made your class perform like a generic class by using Object array. Which is why you have to typecast inside add() method. Instead of doing this, a better approach would be to make the following changes:
+line 11: private T[] data;
+line 21: data = (T[])new Object[size];
+line 31: data = (T[])new Object[DEFAULT_SIZE];
+This will not need the add() method or any other methods to do any typecasting.
+3. The test class should have been named as TestMyArrayList.java (it is globally used convenstion in Java community that any test class has a prefix Test, and any test method has a prefix test. Your test method names look fine though.
+4. You have used the old style Test class which needs your test class to extend from TestCase class. Try to adopt the newer style, you will see an example in the provided test for homework 02.

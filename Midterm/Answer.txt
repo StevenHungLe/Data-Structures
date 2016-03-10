@@ -1,0 +1,20 @@
+Hung Le
+
+MidTerm Assignment
+
+1.1.Written Part:
+
+Q-1:
+a) O(n)
+b) O(n^2)
+c) O(n^3)
+d) O(n^2)
+e) O(n^5)
+f) O(n^4)
+
+
+Q-2: 100 input / 0.5 ms = 500 input / ? ms ==>  ? = 500 x 0.5 / 100 = 2.5 ms.
+
+
+Q-3: ? = 0.5 ms x (500^2 / 100^2) = 12.5 ms. 
+
